@@ -21,7 +21,9 @@ A beginner Python console application for registering and managing computer repa
 
 This project was built to practise Python dictionaries, nested data structures, loops, conditional statements, input validation, and basic record management.
 
-Future improvements will include organizing the program into functions and adding further functionality.
+##Update
+
+Swapped multiple if statements with functions
 
 ## How to Run
 
@@ -34,3 +36,4 @@ python3 repair-job-logger.py
 ## Status
 
 Initial version completed. Further improvements planned.
+
